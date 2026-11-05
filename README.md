@@ -14,6 +14,7 @@ Open to AI/ML Engineer and Data Scientist roles: remote, Mauritania, Middle East
 | Project | What it shows |
 |---|---|
 | [fraud-mlops](https://github.com/MohamedSalem32/fraud-mlops) | Real-time fraud detection: imbalanced learning, FastAPI serving, stream simulation, drift monitoring |
+| [ai-news-agent](https://github.com/MohamedSalem32/ai-news-agent) | LLM news agent: TF-IDF ranking, summarization, LangChain agent, FastAPI (my agent in a team project; [team repo](https://github.com/Aethelios/ai-news-agent)) |
 | [churn-mlops-pipeline](https://github.com/MohamedSalem32/churn-mlops-pipeline) | MLflow tracking, FastAPI, Docker, Makefile automation |
 | [LSTM-Food-Prices-Mauritania](https://github.com/MohamedSalem32/LSTM-Food-Prices-Mauritania) | Time-series forecasting with LSTM (team project) |
 | [Conversion-Rate-Prediction](https://github.com/MohamedSalem32/Conversion-Rate-Prediction) | Classification and feature engineering (team project) |
